@@ -1,4 +1,4 @@
-That project was created by using React.
+This project was created by using React.
 It's can be created in vanilla html + css but I like react, so :p.
 
 Copy and type "npm start" to terminal.
